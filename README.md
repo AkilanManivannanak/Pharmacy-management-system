@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pharmacy Management System (SQLite) — CLI + FastAPI API
 
 A lightweight pharmacy operations system built with **Python + SQLite**, delivered in two interfaces:
