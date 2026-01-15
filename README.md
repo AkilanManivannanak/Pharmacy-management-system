@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pharmacy Management System (SQLite) — CLI + FastAPI API
 
 A lightweight pharmacy operations system built with **Python + SQLite**, delivered in two interfaces:
@@ -207,3 +208,4 @@ curl "http://127.0.0.1:8000/medicines"
 - Add Docker: one-command run
 - Add CI: GitHub Actions (lint + tests)
 ---
+
